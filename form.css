@@ -1,0 +1,23 @@
+.form {
+    border : 1px solid #ccc;
+    padding : 40px;
+    width: 100%;
+    margin:0 auto;
+}
+
+.form .form-group {
+    margin: 20px 0;
+}
+.form-group label{
+    display:block;
+    font-size: 16px;
+
+    font-weight: bold;
+    margin: 0 0 10px;
+
+}
+.form-group input{
+    display:block;
+    padding:6px 10px;
+    width:100%;
+}
